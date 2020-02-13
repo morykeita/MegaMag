@@ -30,6 +30,7 @@ java -jar target/ForbesApplication-0.0.1-SNAPSHOT.jar
 Java 8
 Spring Boot (Spring data jpa)
 AngularJS
+H2 in memory database
 ```
 
 ### TO DO
