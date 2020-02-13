@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9a89738-f319-4777-a446-5f5b5368ec92" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/morykeita/forbes/controller/ViewController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/morykeita/forbes/entity/builder/ArticleBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/morykeita/forbes/service/ArticleServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/articleDetail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/articles.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/morykeita/forbes/ArticleServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/morykeita/forbes/ControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/articles.db.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/articles.db.mv.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/articles.db.trace.db" beforeDir="false" afterPath="$PROJECT_DIR$/articles.db.trace.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/morykeita/forbes/DatabaseSeeder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/morykeita/forbes/DatabaseSeeder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/morykeita/forbes/ViewController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/morykeita/forbes/controller/ArticleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/morykeita/forbes/controller/ArticleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/morykeita/forbes/entity/Article.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/morykeita/forbes/entity/Article.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/morykeita/forbes/service/ArticleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/morykeita/forbes/service/ArticleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/app/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xak7tnEuSZVljG4p9TTmXgNKzw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../git/spring-boot-angularjs-crud/pom.xml" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/static/app" />
+      <recent name="$PROJECT_DIR$/src/main/resources/static" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ForbesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SendToday" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.morykeita.forbes.ForbesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9a89738-f319-4777-a446-5f5b5368ec92" name="Default Changelist" comment="" />
+      <created>1581291428914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581291428914</updated>
+      <workItem from="1581291434902" duration="8650000" />
+      <workItem from="1581302412643" duration="9357000" />
+      <workItem from="1581312043738" duration="3704000" />
+      <workItem from="1581463209686" duration="14641000" />
+      <workItem from="1581479356267" duration="10468000" />
+      <workItem from="1581532240690" duration="12768000" />
+      <workItem from="1581553546765" duration="398000" />
+      <workItem from="1581554965482" duration="10269000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="428" y="124" width="800" height="677" key="#Assign_Data_Sources" timestamp="1581294644087">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="428" y="124" width="800" height="677" key="#Assign_Data_Sources/67.27.1533.873@67.27.1533.873" timestamp="1581294644087" />
+    <state x="428" y="124" width="800" height="677" key="#Console" timestamp="1581469073761">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="428" y="124" width="800" height="677" key="#Console/67.27.1533.873@67.27.1533.873" timestamp="1581469073761" />
+    <state x="514" y="254" width="629" height="416" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581465809742">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="514" y="254" width="629" height="416" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1533.873@67.27.1533.873" timestamp="1581465809742" />
+    <state x="641" y="141" width="374" height="642" key="#com.intellij.ide.util.MemberChooser" timestamp="1581562838795">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="641" y="141" width="374" height="642" key="#com.intellij.ide.util.MemberChooser/67.27.1533.873@67.27.1533.873" timestamp="1581562838795" />
+    <state x="566" y="211" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581478954802">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="566" y="211" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1533.873@67.27.1533.873" timestamp="1581478954802" />
+    <state x="167" y="125" width="1333" height="675" key="DiffContextDialog" timestamp="1581556157909">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="167" y="125" width="1333" height="675" key="DiffContextDialog/67.27.1533.873@67.27.1533.873" timestamp="1581556157909" />
+    <state x="616" y="220" width="424" height="484" key="FileChooserDialogImpl" timestamp="1581553310055">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="616" y="220" width="424" height="484" key="FileChooserDialogImpl/67.27.1533.873@67.27.1533.873" timestamp="1581553310055" />
+    <state width="1487" height="275" key="GridCell.Tab.0.bottom" timestamp="1581564018540">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="275" key="GridCell.Tab.0.bottom/67.27.1533.873@67.27.1533.873" timestamp="1581564018540" />
+    <state width="1487" height="275" key="GridCell.Tab.0.center" timestamp="1581564018540">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="275" key="GridCell.Tab.0.center/67.27.1533.873@67.27.1533.873" timestamp="1581564018540" />
+    <state width="1487" height="275" key="GridCell.Tab.0.left" timestamp="1581564018539">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="275" key="GridCell.Tab.0.left/67.27.1533.873@67.27.1533.873" timestamp="1581564018539" />
+    <state width="1487" height="275" key="GridCell.Tab.0.right" timestamp="1581564018540">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="275" key="GridCell.Tab.0.right/67.27.1533.873@67.27.1533.873" timestamp="1581564018540" />
+    <state width="1487" height="275" key="GridCell.Tab.1.bottom" timestamp="1581564018542">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="275" key="GridCell.Tab.1.bottom/67.27.1533.873@67.27.1533.873" timestamp="1581564018542" />
+    <state width="1487" height="275" key="GridCell.Tab.1.center" timestamp="1581564018541">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="275" key="GridCell.Tab.1.center/67.27.1533.873@67.27.1533.873" timestamp="1581564018541" />
+    <state width="1487" height="275" key="GridCell.Tab.1.left" timestamp="1581564018541">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="275" key="GridCell.Tab.1.left/67.27.1533.873@67.27.1533.873" timestamp="1581564018541" />
+    <state width="1487" height="275" key="GridCell.Tab.1.right" timestamp="1581564018541">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="275" key="GridCell.Tab.1.right/67.27.1533.873@67.27.1533.873" timestamp="1581564018541" />
+    <state width="1487" height="246" key="GridCell.Tab.2.bottom" timestamp="1581559850401">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="246" key="GridCell.Tab.2.bottom/67.27.1533.873@67.27.1533.873" timestamp="1581559850401" />
+    <state width="1487" height="246" key="GridCell.Tab.2.center" timestamp="1581559850400">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="246" key="GridCell.Tab.2.center/67.27.1533.873@67.27.1533.873" timestamp="1581559850400" />
+    <state width="1487" height="246" key="GridCell.Tab.2.left" timestamp="1581559850400">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="246" key="GridCell.Tab.2.left/67.27.1533.873@67.27.1533.873" timestamp="1581559850400" />
+    <state width="1487" height="246" key="GridCell.Tab.2.right" timestamp="1581559850401">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="246" key="GridCell.Tab.2.right/67.27.1533.873@67.27.1533.873" timestamp="1581559850401" />
+    <state x="322" y="97" key="SettingsEditor" timestamp="1581293100006">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="322" y="97" key="SettingsEditor/67.27.1533.873@67.27.1533.873" timestamp="1581293100006" />
+    <state x="167" y="125" width="1333" height="675" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1581559517356">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="167" y="125" width="1333" height="675" key="com.intellij.history.integration.ui.views.FileHistoryDialog/67.27.1533.873@67.27.1533.873" timestamp="1581559517356" />
+    <state x="469" y="178" width="728" height="568" key="find.popup" timestamp="1581295333382">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="469" y="178" width="728" height="568" key="find.popup/67.27.1533.873@67.27.1533.873" timestamp="1581295333382" />
+    <state x="142" y="162" width="1372" height="600" key="new project wizard" timestamp="1581553941160">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="142" y="162" width="1372" height="600" key="new project wizard/67.27.1533.873@67.27.1533.873" timestamp="1581553941160" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/morykeita/forbes/controller/ViewController.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/morykeita/forbes/controller/ViewController.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/morykeita/forbes/ArticleServiceImplTest.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
