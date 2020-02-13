@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9a89738-f319-4777-a446-5f5b5368ec92" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles.db.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/articles.db.mv.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles.db.trace.db" beforeDir="false" afterPath="$PROJECT_DIR$/articles.db.trace.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/morykeita/forbes/controller/ArticleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/morykeita/forbes/controller/ArticleController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/morykeita/forbes/controller/ViewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/morykeita/forbes/controller/ViewController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/morykeita/forbes/ArticleServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/morykeita/forbes/ArticleServiceImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/morykeita/forbes/ControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/morykeita/forbes/ControllerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/morykeita/forbes/controller/ViewController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/morykeita/forbes/controller/ViewController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,7 +162,7 @@
       <workItem from="1581532240690" duration="12768000" />
       <workItem from="1581553546765" duration="398000" />
       <workItem from="1581554965482" duration="11010000" />
-      <workItem from="1581570722248" duration="2426000" />
+      <workItem from="1581570722248" duration="2841000" />
     </task>
     <servers />
   </component>

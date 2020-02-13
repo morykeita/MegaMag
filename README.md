@@ -3,8 +3,6 @@
 Forbes Magazine Take home application.
 
 ### Prerequisites
-The application is set to run on your local machine on port 8080.
-You may change the default port number in the application.properties file.
 
 ```
 Java 8
